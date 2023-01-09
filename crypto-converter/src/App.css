@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.crypto-card {
+  min-width: 400px;
+  background-color: #6f6f99d7;
+}
+
+
+
+.select-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+body {
+  background-color: rgb(119, 117, 119);
+}
